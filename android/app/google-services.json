@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177821201844",
+    "project_id": "planttask-5530b",
+    "storage_bucket": "planttask-5530b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177821201844:android:fac7e83dd0c0e1d3096ee1",
+        "android_client_info": {
+          "package_name": "com.example.plant_snap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZJAiYB7EhdJlLXoTHM2IyB3t8OIUXKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
